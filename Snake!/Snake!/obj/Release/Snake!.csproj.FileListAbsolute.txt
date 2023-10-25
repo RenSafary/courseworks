@@ -1,0 +1,11 @@
+C:\Users\ilyae\source\repos\Snake!\Snake!\bin\Release\Snake!.exe.config
+C:\Users\ilyae\source\repos\Snake!\Snake!\bin\Release\Snake!.exe
+C:\Users\ilyae\source\repos\Snake!\Snake!\bin\Release\Snake!.pdb
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake!.csproj.AssemblyReference.cache
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake!.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake_.Form1.resources
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake_.Properties.Resources.resources
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake!.csproj.GenerateResource.cache
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake!.csproj.CoreCompileInputs.cache
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake!.exe
+C:\Users\ilyae\source\repos\Snake!\Snake!\obj\Release\Snake!.pdb

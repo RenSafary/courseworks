@@ -1,0 +1,11 @@
+C:\Users\ilyae\source\repos\Rex\Rex\bin\Debug\Rex.exe.config
+C:\Users\ilyae\source\repos\Rex\Rex\bin\Debug\Rex.exe
+C:\Users\ilyae\source\repos\Rex\Rex\bin\Debug\Rex.pdb
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.csproj.AssemblyReference.cache
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.Form1.resources
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.Properties.Resources.resources
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.csproj.GenerateResource.cache
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.csproj.CoreCompileInputs.cache
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.exe
+C:\Users\ilyae\source\repos\Rex\Rex\obj\Debug\Rex.pdb

@@ -1,0 +1,23 @@
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.AssemblyReference.cache
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Form1.resources
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.GenerateResource.cache
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.manifest
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\bin\Debug\Space Invaders.application
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe.manifest
+C:\Users\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.application
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.AssemblyReference.cache
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.SuggestedBindingRedirects.cache
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Form1.resources
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.GenerateResource.cache
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.csproj.CoreCompileInputs.cache
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.exe
+D:\ilyae\source\repos\Space Invaders\Space Invaders\obj\Debug\Space Invaders.pdb
